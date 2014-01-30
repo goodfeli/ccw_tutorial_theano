@@ -5,7 +5,7 @@ def evaluate(x, y, expr, x_value, y_value):
     """
     x: A theano variable
     y: A theano variable
-    expr: A theano expression involving a and b
+    expr: A theano expression involving x and y
     x_value: A numpy value
     y_value: A numpy value
 

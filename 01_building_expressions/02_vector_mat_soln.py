@@ -1,6 +1,3 @@
-# Fill in the TODOs in this exercise, then run
-# python 02_vector_mat.py to see if your solution works!
-#
 import numpy as np
 from theano import function
 import theano.tensor as T
